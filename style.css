@@ -1,0 +1,9 @@
+body {
+    background-image: url('./imgs/background.jpg'); /* Caminho relativo para a imagem */
+    background-size: cover; /* Ajusta a imagem para cobrir toda a janela */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Evita que a imagem se repita */
+    height: 760px; /* Garante que o fundo cubra toda a altura da janela */
+    margin: 0; /* Remove margens padrão */
+    color: white;
+}
